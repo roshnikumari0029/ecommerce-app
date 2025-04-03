@@ -8,7 +8,8 @@ const Footer = () => {
                 <div>
                     <img src={assets.logo} className='mb-5 w-32' alt="" />
                     <p className='w-full md:w-2/3 text-gray-600'>
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod culpa quas veniam itaque voluptate officiis aut quidem eaque eius! Ut eum quae recusandae eius est quidem excepturi at harum libero.
+                     It has made shopping so much more comfortable and more accessible that people engage in online shopping anywhere and everywhere. Just swiftly pull out your phone and start searching for products, and you are ready to shop.
+
                     </p>
                 </div>
 
